@@ -1,3 +1,5 @@
 # Kalkulator
 
-To jestprosty projekt kalkulatora
+To jest prosty projekt kalkulatora.
+
+Robimygo przy okazji nauki gita.
