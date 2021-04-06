@@ -2,4 +2,4 @@
 
 To jest prosty projekt kalkulatora.
 
-Robimygo przy okazji nauki gita.
+Robimy go przy okazji nauki gita.
