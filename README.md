@@ -1,4 +1,5 @@
-# Kalkulator
+# Kalkulator - to instrukcja obsługi
+
 
 To jest prosty projekt kalkulatora.
 
